@@ -54,3 +54,6 @@ The Power BI dashboard provides an interactive view of customer churn using KPI 
 ## Skills Demonstrated
 
 **Excel | Data Cleaning | Data Analysis | PivotTables | Power BI | Data Visualization | Dashboard Development | KPI Analysis**
+## Dashboard Preview
+
+![Customer Churn Dashboard](61503956-5e61-4a5f-8266-aef3bc73571c.png)
